@@ -29,9 +29,10 @@
  * wiper to LCD VO pin (pin 3)
  
 ## System Architecture
+![GitHub Logo](/images/architecture.png)
 
 
-### For a graphical view of connections please visit ....
+### For a graphical view of connections please visit https://www.tinkercad.com/things/4bvrgNA91Dt
  
 ## Air Quality measurement
 
