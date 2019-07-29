@@ -3,7 +3,7 @@
   
  This project can also be done without online simulation
  
-## Components Required (ignore if are doing it online)
+## Components Required (ignore if you are doing it online)
 
 * Arduino Uno
 
